@@ -11,7 +11,7 @@ const Chat = () => {
     const [ chat, setChat ] = useState([
         {
             id: 0,
-            emitter: 'x',
+            emitter: 'Cat',
             msg: ['Hola que tal Hola que tal', ' Como estas?']
         }
     ])
