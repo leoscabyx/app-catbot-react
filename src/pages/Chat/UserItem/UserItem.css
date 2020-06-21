@@ -1,0 +1,35 @@
+.user-item-container {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1rem;
+}
+
+.user-item-container img {
+    height: 40px;
+    width: 40px;
+    /* background-color: tomato; */
+    background-image: url('../../../assets/images/ghost.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    /* border-radius: 50%; */
+    margin-left: 20px;
+}
+
+.user-item-message {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.user-item-container label {
+
+    padding: 10px;
+    background-color: rebeccapurple;
+    color: #fff;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
