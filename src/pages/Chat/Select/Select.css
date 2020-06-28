@@ -1,0 +1,29 @@
+.selector-content {
+    
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 1rem;
+}
+
+.selector-container {
+    
+    background-color: tomato;
+    padding: 1rem;
+    border-radius: 4px;
+    
+}
+
+.selector-item {
+    background-color: rgb(189, 62, 62);
+    padding: 0.5rem;
+    margin-bottom: 10px;
+}
+
+.selector-item:last-child {
+    margin-bottom: 0;
+}
+
+.selector-item label{
+    color: #eaeaea;
+    cursor: pointer;
+}
