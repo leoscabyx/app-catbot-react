@@ -8,7 +8,7 @@ Ver en funcionamiento
 
 Clonando el respositorio
 
-``` git clone https://github.com/leoscabyx/react-course.git ```
+``` git clone https://github.com/leoscabyx/app-catbot-react.git ```
 
 Dentro de la carpeta del proyecto ejecuta  el comando ``` npm start ``` y se levantara un servidor local en
 [http://localhost:3000](http://localhost:3000) para visualizar el proyecto.
